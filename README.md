@@ -1,4 +1,4 @@
-# Student Marks Sheet – Filtering & Queries (
+# Student Marks Sheet – Filtering & Queries (Pandas)      
  
 A Jupyter Notebook that answers 50 data filtering and query questions on a student marks dataset using **pandas**.
  
